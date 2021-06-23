@@ -2,11 +2,12 @@
 
 ## I'm a Blockchain and Web Developer! 
 
-- 🔭 I just launched my first course
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I am open to Internship and Job offers 
+- 🌱 Graduating as an IT Engineer in 2022!
+- 👯 Runner-Up at Chainlink Hackathon 2021
+- ⚡ Winner of IEEE HAC & SIGHT Funding for Covid19
+-   Winner of Best Student Volunteer from IEEE Pune Section
+-   Grand Finalist at Rakathon
 
 ### Connect with me!
 
