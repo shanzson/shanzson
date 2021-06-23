@@ -2,7 +2,7 @@
 
 ## I'm a Blockchain and Web Developer! 
 
-- 👨‍💼 Working on Ethereum and Hyperledger Blockchain
+- 🔗 Working on Ethereum and Hyperledger Blockchain
 - ⚡ Grand Finalist at Rakathon
 - ✌️ Runner-Up at Chainlink Hackathon 2021
 - 🏆 Winner of IEEE HAC & SIGHT Funding for Covid19
