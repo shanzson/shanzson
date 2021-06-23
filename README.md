@@ -2,13 +2,12 @@
 
 ## I'm a Blockchain and Web Developer! 
 
-- 👨‍💼 I am open to Internship and Job offers 
-- 👨‍🎓 Graduating as an IT Engineer in 2022!
+- 👨‍💼 Worked on Ethereum and Hyperledger Blockchain 
+- ⚡ Grand Finalist at Rakathon
 - ✌️ Runner-Up at Chainlink Hackathon 2021
 - 🏆 Winner of IEEE HAC & SIGHT Funding for Covid19
 - 🏅 Winner of Best Student Volunteer from IEEE Pune Section
-- ⚡ Grand Finalist at Rakathon
-
+- 👨‍🎓 Fun Fact- Graduating as an IT Engineer in 2022!
 ### Connect with me!
 
 [<img align="left" alt="Portfolio-Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shantanhuntportfolio.netlify.app/)
