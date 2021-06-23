@@ -1,4 +1,4 @@
-### Hi there, I'm Shantanu - aka shantanhunt 👋
+# Hi there, I'm Shantanu - aka shantanhunt 👋
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-shantanusontakke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)](https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)      [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=React&logoColor=white&link=https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)](https://shantanhuntportfolio.netlify.app/)
