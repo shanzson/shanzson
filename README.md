@@ -11,9 +11,8 @@
 - 🏆 Winner of IEEE HAC & SIGHT Funding for Covid19
 - 🏅 Winner of Best Student Volunteer from IEEE Pune Section
 - 👨‍🎓 Fun Fact- Graduating as an IT Engineer in 2022!
-### Connect with me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-pranavsinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-sinha)](https://www.linkedin.com/in/pranav-sinha)      [![Gmail Badge](https://img.shields.io/badge/-pran.sinha1.0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pran.sinha1.0@gmail.com)](mailto:shantanu.sontakke18@vit.edu)
+### Connect with me!
 
 [<img align="left" alt="Portfolio-Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shantanhuntportfolio.netlify.app/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)
