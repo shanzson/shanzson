@@ -12,11 +12,6 @@
 - 🏅 Winner of Best Student Volunteer from IEEE Pune Section
 - 👨‍🎓 Fun Fact- Graduating as an IT Engineer in 2022!
 
-### Connect with me!
-
-[<img align="left" alt="Portfolio-Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://shantanhuntportfolio.netlify.app/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)
-
 <br />
 
 ### Languages and Tools:
