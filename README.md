@@ -10,7 +10,7 @@
 - ✌️ Runner-Up at Chainlink Hackathon 2021
 - 🏆 Winner of IEEE HAC & SIGHT Funding for Covid19
 - 🏅 Winner of Best Student Volunteer from IEEE Pune Section
-- 👨‍🎓 Fun Fact- Graduating as an IT Engineer in 2022!
+- 👨‍🎓 Fun Fact- I am Open to get Hired!
 
 <br />
 
