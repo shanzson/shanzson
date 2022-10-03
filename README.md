@@ -7,8 +7,12 @@
 
 - 🔗 Working on Ethereum and solidity
 - ✌️ Runner-Up at Chainlink Hackathon 2021
-- 🏆 Winner of IEEE HAC & SIGHT Funding for Covid19
-- 🏅 Winner of Best Student Volunteer from IEEE Pune Section
+
+<br />
+
+## Interests 
+
+- Defi, NFTsa and Game-Fi
 
 <br />
 
