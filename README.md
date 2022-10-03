@@ -3,14 +3,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-shantanusontakke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)](https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)      [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=React&logoColor=white&link=https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)](https://shantanhuntportfolio.netlify.app/)
 
-## I'm a Blockchain and Web Developer! 
+## I'm a Smart Contract Auditor! 
 
-- 🔗 Working on Ethereum and Hyperledger Blockchain
-- ⚡ Grand Finalist at Rakathon
+- 🔗 Working on Ethereum and solidity
 - ✌️ Runner-Up at Chainlink Hackathon 2021
 - 🏆 Winner of IEEE HAC & SIGHT Funding for Covid19
 - 🏅 Winner of Best Student Volunteer from IEEE Pune Section
-- 👨‍🎓 Fun Fact- I am Open to get Hired!
 
 <br />
 
