@@ -12,7 +12,7 @@
 
 ## Interests 
 
-- Defi, NFTsa and Game-Fi
+- Defi, NFTs and Game-Fi
 
 <br />
 
