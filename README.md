@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-shantanusontakke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)](https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)      [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=React&logoColor=white&link=https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)](https://shantanhuntportfolio.netlify.app/)
 
-## I'm a Smart Contract Auditor at QuillAudits
+## I'm a Smart Contract Auditor at QuillAudits- Making Web3 a Safer Place!
 
 - 🔗 Working on Ethereum and solidity
 - ✌️ Runner-Up at Chainlink Hackathon 2021
