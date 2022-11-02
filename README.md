@@ -12,7 +12,8 @@
 <br />
 
 ## My Official Blog
-- ✍️ [Mirror-blog](https://mirror.xyz/shanzson.eth/)
+
+- ✍️ [Mirror](https://mirror.xyz/shanzson.eth/)
 
 ## Interests 
 
