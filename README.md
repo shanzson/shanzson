@@ -5,7 +5,8 @@
 
 ## I'm a Smart Contract Auditor at Zokyo Labs
 
-- 🔗 Working on Ethereum, EVM based chains and solidity
+- 🔗 Working on Ethereum, EVM based chains and Solidity
+- 🧿 Exploring Zero-Knowledge Proofs
 - ✌️ Runner-Up at Chainlink Hackathon 2021
 - 🐵 Checkout my Secureum [NFTs](https://www.showkarma.xyz/profile/0x68A7bDB9ac7424CfdC5d067c35dCD5DB62AdBA2f#Secureum) won after scoring in their Smart contract security Quizzes!
 
