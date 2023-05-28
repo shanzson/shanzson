@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-shantanusontakke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)](https://www.linkedin.com/in/shantanu-sontakke-4a1b3117b/)      [![Portfolio Badge](https://img.shields.io/twitter/follow/shanzson?style=social)](https://twitter.com/shanzson)
 
-## I'm a Smart Contract Auditor at [Zokyo](https://www.zokyo.io/)
+## I'm a Solidity Auditor at [Zokyo](https://www.zokyo.io/)
 
 - 🔗 Working on Ethereum, EVM based chains and Solidity
 - 🧿 Exploring Zero-Knowledge Proofs
