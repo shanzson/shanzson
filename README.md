@@ -43,6 +43,6 @@
 <br>
 ---
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=shantanhunt)](https://github.com/shantanhunt/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=shanzson)](https://github.com/shanzson/github-readme-stats)
 
 
