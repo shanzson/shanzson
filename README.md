@@ -1,4 +1,4 @@
-## Hi there, I'm Shantanu👋
+## Hi there, I'm Shanzson👋
 
 
 [![Portfolio Badge](https://img.shields.io/twitter/follow/shanzson?style=social)](https://twitter.com/shanzson)
