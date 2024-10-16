@@ -3,7 +3,7 @@
 
 [![Portfolio Badge](https://img.shields.io/twitter/follow/shanzson?style=social)](https://twitter.com/shanzson)
 
-## I'm a Solidity Auditor @ [Zokyo](https://www.zokyo.io/), Previously @ [Quillaudits](https://www.quillaudits.com/), Building @ [AI Apocalypto](https://aiapocalypto.com/)
+## I'm a Solidity Auditor @ [Zokyo](https://www.zokyo.io/), Building @ [AI Apocalypto](https://aiapocalypto.com/) , Previously @ [Quillaudits](https://www.quillaudits.com/), 
 
 - 🔗 Working on Ethereum, EVM based chains and Solidity
 - 🧿 Exploring Zero-Knowledge Proofs
