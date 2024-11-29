@@ -3,13 +3,13 @@
 
 [![Portfolio Badge](https://img.shields.io/twitter/follow/shanzson?style=social)](https://twitter.com/shanzson)
 
-## I'm a Solidity Auditor @ [Zokyo](https://www.zokyo.io/), Building @ [AI Apocalypto](https://aiapocalypto.com/) , Prev @ [Quillaudits](https://www.quillaudits.com/), 
+## I'm a Solidity Auditor & Security Researcher@ [Zokyo](https://www.zokyo.io/), Building @ [AI Apocalypto](https://aiapocalypto.com/) , Prev @ [Quillaudits](https://www.quillaudits.com/), 
 
-- 🔗 Working on Ethereum, EVM based chains and Solidity
-- 🧿 Exploring Zero-Knowledge Proofs
-- ✌️ Runner-Up at Chainlink Hackathon 2021
+- 🪭 My [POAPs](https://collectors.poap.xyz/scan/shanzson.eth)
 - 🐵 Checkout my Secureum [NFTs](https://www.showkarma.xyz/profile/0x68A7bDB9ac7424CfdC5d067c35dCD5DB62AdBA2f#Secureum) won after scoring in their Smart contract security Quizzes!
-
+- ✌️ Runner-Up at Chainlink Hackathon 2021
+- 🧿 Exploring Zero-Knowledge Proofs
+- 🔗 Working on Ethereum, EVM based chains, Solidity and Noir
 <br />
 
 ## My Official Blog
