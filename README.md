@@ -3,7 +3,7 @@
 
 [![Portfolio Badge](https://img.shields.io/twitter/follow/shanzson?style=social)](https://twitter.com/shanzson)
 
-## I'm a Solidity Auditor & Security Researcher@ [Zokyo](https://www.zokyo.io/), Building @ [AI Apocalypto](https://aiapocalypto.com/) , Prev @ [Quillaudits](https://www.quillaudits.com/)
+## I'm AI Safety & Security Researcher, Currently @ [Zokyo](https://www.zokyo.io/), Building @ [AI Apocalypto](https://aiapocalypto.com/) , Prev @ [Quillaudits](https://www.quillaudits.com/)
 
 - 🪭 My [POAPs](https://collectors.poap.xyz/scan/shanzson.eth)
 - 🐵 Checkout my Secureum [NFTs](https://www.showkarma.xyz/profile/0x68A7bDB9ac7424CfdC5d067c35dCD5DB62AdBA2f#Secureum) won after scoring in their Smart contract security Quizzes!
@@ -18,7 +18,7 @@
 
 ## Interests 
 
-- Defi, NFTs and Game-Fi
+- AI safety & security, Smart contracts and Zero Kowledge Proofs
 
 <br />
 
